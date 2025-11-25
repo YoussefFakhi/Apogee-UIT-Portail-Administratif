@@ -193,7 +193,7 @@ Admin dashboard URL:
 Full-Stack Web Developer
 
 * GitHub: [https://github.com/YoussefFakhi](https://github.com/YoussefFakhi)
-* LinkedIn: [www.linkedin.com/in/yousseffakhi1](www.linkedin.com/in/yousseffakhi1)
+* LinkedIn: [https://www.linkedin.com/in/yousseffakhi1](https://www.linkedin.com/in/yousseffakhi1)
 
 ---
 
