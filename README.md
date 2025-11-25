@@ -1,9 +1,3 @@
-Here is your **full updated and improved `README.md`**, clean, professional, and ready to copy–paste directly.
-
-I replaced all `YOUR_GITHUB_USERNAME` with **YoussefFakhi**, improved formatting, added screenshots section, requirements, and polished everything.
-
----
-
 # 🏛️ Apogée UIT Administrative Portal
 
 [![GitHub stars](https://img.shields.io/github/stars/YoussefFakhi/Apogee-UIT-Portail-Administratif?style=social)](https://github.com/YoussefFakhi/Apogee-UIT-Portail-Administratif/stargazers)
@@ -57,28 +51,6 @@ Make sure you have the following installed:
 * MySQL / PostgreSQL
 * Node.js & NPM
 * Git
-
----
-
-## 📸 Screenshots
-
-Add your screenshots inside a `screenshots/` folder and link them:
-
-```
-screenshots/
-  ├── login.png
-  ├── dashboard.png
-  └── form-example.png
-```
-
-Example section:
-
-```md
-## 📸 Screenshots
-
-![Login Page](screenshots/login.png)
-![Admin Dashboard](screenshots/dashboard.png)
-```
 
 ---
 
@@ -221,7 +193,7 @@ Admin dashboard URL:
 Full-Stack Web Developer
 
 * GitHub: [https://github.com/YoussefFakhi](https://github.com/YoussefFakhi)
-* LinkedIn: *(add your link if you want)*
+* LinkedIn: [www.linkedin.com/in/yousseffakhi1](www.linkedin.com/in/yousseffakhi1)
 
 ---
 
@@ -229,7 +201,3 @@ Full-Stack Web Developer
 
 This project is licensed under the **MIT License**.
 Feel free to use, modify, and share it with proper credit 🙌
-
----
-
-If you want, I can also make a **professional README banner** for the top of your repo.
